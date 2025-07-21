@@ -73,11 +73,11 @@
 ## My Latest Projects Post
 
 ## Links:
-[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://BreegBenjamin.com)
-[![Microsoft Learn](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://docs.Microsoftg.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ernestocajar/)
-[![DataCamp](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.ingcapadev.com)
+[![Website](https://BreegBenjamin.com)
+[![Microsoft Learn](https://docs.Microsoftg.com)
+[![LinkedIn](https://www.linkedin.com/in/ernestocajar/)
+[![DataCamp](https://blog.ingcapadev.com)
 
 ## Contact:
 
-[![Email](https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ernestocajar@outlook.com)
+[![Email](mailto:ernestocajar@outlook.com)
